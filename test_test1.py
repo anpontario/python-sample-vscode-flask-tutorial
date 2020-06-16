@@ -1,1 +1,2 @@
-print('Hello World')
+def test_testmethod():
+    print('Hello World')
